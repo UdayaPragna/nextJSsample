@@ -1,1 +1,2 @@
 # nextJSsample
+sample only
